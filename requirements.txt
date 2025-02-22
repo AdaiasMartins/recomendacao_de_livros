@@ -1,4 +1,5 @@
 requests
 pandas
-psycopg2
 bs4
+kagglehub
+psycopg2
